@@ -20,6 +20,8 @@
                 "composer/installers": "*"
         },
         "extra": {
-            "installer-name": "EntheosWebUtilities"
+            "installer-paths": {
+              "app/Plugin/EntheosWebUtilities": ["eliagentili/entheos_web_utilities"]
+            }
         }
 }
