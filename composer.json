@@ -1,0 +1,23 @@
+{
+        "name": "eliagentili/EntheosWebUtilities",
+        "description": "Plugin contenente tutte le funzioni utili sviluppate per CakePHP 2.x.",
+        "type": "cakephp-plugin",
+        "keywords": ["cakephp", "common utilities"],
+        "homepage": "https://github.com/eliagentili/EntheosWebUtilities",
+        "license": "MIT",
+        "authors": [
+                {
+                        "name": "Elia Gentili",
+                        "homepage": "http://www.eliagentili.it",
+                        "role": "Author"
+                }
+        ],
+        "support": {
+                "issues": "https://github.com/eliagentili/EntheosWebUtilities/issues",
+                "source": "https://github.com/eliagentili/EntheosWebUtilities"
+        },
+        "require": {
+                "php": ">=5.4.19",
+                "composer/installers": "*"
+        }
+}
